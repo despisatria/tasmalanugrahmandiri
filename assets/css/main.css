@@ -3026,6 +3026,11 @@ section {
   margin-bottom: 30px;
 }
 
+.footer img {
+  max-height: 40px;
+  margin-right: 6px;
+}
+
 .footer .footer-content .footer-info h3 {
   font-size: 28px;
   margin: 0 0 20px 0;
